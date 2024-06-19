@@ -1,0 +1,56 @@
+.head{
+  background-color: #5BBCFF;
+}
+.page-links{
+  color: #FFFAB7;
+}
+.hero{
+  width: 100%;
+}
+.category{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.sub-head{
+  font-weight: 500;
+  display: inline;
+}
+.view-btn{
+  float: right;
+  margin: 1rem 5rem;
+}
+.dashbord-container{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+}
+.profile-container{
+  display: flex;
+  flex-direction: column;
+}
+.order-history-container{
+  display: flex;
+  flex-direction: column;
+}
+.feedText{
+  color: darkblue;
+  font-family: cursive;
+}
+.fill{
+  display: none;
+}
+.thank-text{
+  color: #5BBCFF;
+  font-family: monospace;
+}
+.order-card{
+  display: flex;
+  flex-direction: row;
+}
+.list-group-item{
+  border: "0px";
+}
+.errorMsg{
+  color: red;
+}
